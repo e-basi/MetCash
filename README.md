@@ -7,6 +7,7 @@ Transfer Funds
 Pay Bills
 Account Inquiries
 
+![IMG_1615 (1)](https://github.com/e-basi/MetCash/assets/93174387/ff5ef246-492a-43e4-8137-2ddc85bbc7de)
 ![IMG_1616](https://github.com/e-basi/MetCash/assets/93174387/d15f3cd0-bf0a-403d-9f01-f31d1d130623)
 ![IMG_1617](https://github.com/e-basi/MetCash/assets/93174387/8f068d2f-7e24-4162-8b22-63e8ddf10813)
 ![IMG_1618](https://github.com/e-basi/MetCash/assets/93174387/2a26de30-b722-4a2e-bf9e-461e347da251)
@@ -16,6 +17,5 @@ Account Inquiries
 ![IMG_1622](https://github.com/e-basi/MetCash/assets/93174387/fceadb6c-aa97-4ccf-9a8e-c0cbccb9f284)
 ![IMG_1623](https://github.com/e-basi/MetCash/assets/93174387/b2d82c26-175d-47ba-964e-9e44dae17e0a)
 ![IMG_1624](https://github.com/e-basi/MetCash/assets/93174387/ba8ca8aa-252c-41e9-9223-7ffab090eccc)
-![login page](https://github.com/e-basi/MetCash/assets/93174387/3472a558-7251-4394-a6d8-98d8e366e269)
 
 
