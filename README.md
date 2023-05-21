@@ -2,9 +2,13 @@
 Metcash ATM Machine is a Java-based software application that replicates the functionality of an Automated Teller Machine (ATM). It provides a convenient and secure platform for users to perform various banking transactions seamlessly, enabling a user-friendly and efficient ATM experience. MetCash performs functions as such -
 
 Withdraw Funds
+
 Deposit Funds
+
 Transfer Funds
+
 Pay Bills
+
 Account Inquiries
 
 ![IMG_1615 (1)](https://github.com/e-basi/MetCash/assets/93174387/ff5ef246-492a-43e4-8137-2ddc85bbc7de)
